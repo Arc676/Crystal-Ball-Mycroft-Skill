@@ -22,6 +22,7 @@ LOGGER = getLogger(__name__)
 class CrystalBallSkill(MycroftSkill):
 
     @intent_handler(IntentBuilder("").require("CrystalBall"))
+    @intent_handler(IntentBuilder("").require("Query").require("Future"))
     def handle_crystalball_intent(self, message):
         # Mycroft responds with a random yes/no answer
         self.speak_dialog("random.answer")
