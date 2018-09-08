@@ -14,7 +14,7 @@
 
 from adapt.intent import IntentBuilder
 from mycroft.skills.core import MycroftSkill, intent_handler
-from mycroft.util.log import LOG
+from mycroft.util.log import LOG, getLogger
 
 __author__ = 'Arc676/Alessandro Vinciguerra'
 LOGGER = getLogger(__name__)
