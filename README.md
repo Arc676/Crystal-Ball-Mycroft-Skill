@@ -8,7 +8,9 @@ Please don't use this skill for any important questions.
 
 ## Examples 
 * "Crystal Ball, will the world end tomorrow?"
-* "Crystal Ball, am I the fairest of them all?"
+* "Mirror mirror on the wall, am I the fairest of them all?"
+* "What does the future hold? Will I become rich and famous?"
+* "Tell me the future; will Mycroft become greater than Siri or Alexa?"
 
 ## Credits 
 Alessandro Vinciguerra (@Arc676)
