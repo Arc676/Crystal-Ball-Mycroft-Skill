@@ -2,7 +2,7 @@
 Provides random answers to yes/no questions
 
 ## About 
-Ask Mycroft any yes/no question and receive a randomly chosen answer.
+Ask Mycroft any yes/no question and receive a randomly choosen answer.
 
 Please don't use this skill for any important questions.
 
