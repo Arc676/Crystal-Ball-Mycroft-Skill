@@ -1,4 +1,4 @@
-# <img src='https://rawgithub.com/FortAwesome/Font-Awesome/master/advanced-options/raw-svg/solid/robot.svg' card_color='#40dbb0' width='50' height='50' style='vertical-align:bottom'/> Crystal Ball
+# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/robot.svg' card_color='#40dbb0' width='50' height='50' style='vertical-align:bottom'/> Crystal Ball
 Provides random answers to yes/no questions
 
 ## About 
